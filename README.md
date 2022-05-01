@@ -1,5 +1,4 @@
 ### Hi there 👋
-### 🙋‍♀️ I am an ios Developer from South Korea
 
 ---
 
@@ -15,8 +14,8 @@
 <h3> ⚒ IDE & Tools </h3>
 <p>
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp
 </p>
 
 <h3> 🤍 Follow Me </h3>
