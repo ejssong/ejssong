@@ -2,7 +2,7 @@
 
 ---
 
-_ <h3> 📚 Tech Stack </h3> _
+<h3 style = "font: italic;"> 📚 Tech Stack </h3>
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>&nbsp
