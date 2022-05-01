@@ -1,5 +1,13 @@
 ### Hi there 👋
-### I'm an ios Developer 
+
+### 🙋‍♀️ About Me :
+I am an ios Developer from South Korea 
+- : I'm working as a software engineer, primarily with testing, creating, maintaining apps and mobile platforms 
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
