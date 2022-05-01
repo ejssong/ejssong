@@ -2,8 +2,8 @@
 ### I'm an ios Developer 
 
 <p align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ejssong&show_icons=true&theme=dark" align = "center"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejssong&layout=compact&theme=dark" align = "center"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ejssong&show_icons=true&theme=dark" align = "center"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejssong&layout=compact&theme=dark" align = "center"/>
 </p>
 
 <!--
