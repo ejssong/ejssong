@@ -2,10 +2,10 @@
 ### I'm an ios Developer 
 
 <a href="https://github.com/ejssong/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ejssong&show_icons=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ejssong&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/ejssong/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejssong&layout=compact&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejssong&layout=compact&theme=dark" />
 </a>
 
 <!--
