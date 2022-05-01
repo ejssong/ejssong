@@ -2,7 +2,7 @@
 
 ---
 
-*** 📚 Tech Stack ***
+* 📚 Tech Stack *
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>&nbsp
