@@ -17,12 +17,9 @@
 <p align = "center">
   <h3> 🔥 git stats </h3>
   <img height = "175em" src="https://github-readme-stats.vercel.app/api?username=ejssong&show_icons=true&theme=dark" align = "center"/>&nbsp
-</p>
-
-<p align = "center">
-  <h3> 🔥 Most Langs </h3>
   <img height = "175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejssong&layout=compact&theme=dark" align = "center"/>&nbsp
 </p>
+
 
 <!--
 **ejssong/ejssong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
