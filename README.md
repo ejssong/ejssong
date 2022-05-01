@@ -15,9 +15,13 @@
 </p>
 
 <p align = "center">
-  <p> 🔥 git stats </p>
-<img height = "175em" src="https://github-readme-stats.vercel.app/api?username=ejssong&show_icons=true&theme=dark" align = "center"/>&nbsp
-<img height = "175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejssong&layout=compact&theme=dark" align = "center"/>
+  <h3> 🔥 git stats </h3>
+  <img height = "175em" src="https://github-readme-stats.vercel.app/api?username=ejssong&show_icons=true&theme=dark" align = "center"/>&nbsp
+</p>
+
+<p align = "center">
+  <h3> 🔥 Most Langs </h3>
+  <img height = "175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejssong&layout=compact&theme=dark" align = "center"/>&nbsp
 </p>
 
 <!--
