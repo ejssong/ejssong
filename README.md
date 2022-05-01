@@ -1,15 +1,11 @@
 ### Hi there 👋
 ### I'm an ios Developer 
 
-<p align = "center">
-<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=ejssong&show_icons=true&theme=dark" align = "center"/>
-<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejssong&layout=compact&theme=dark" align = "center"/>
+<p align = "center" style ="max-width : 100%; ">
+<img height = "175em" src="https://github-readme-stats.vercel.app/api?username=ejssong&show_icons=true&theme=dark" align = "center"/>
+<img height = "175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejssong&layout=compact&theme=dark" align = "center"/>
 </p>
 
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ejssong&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejssong&layout=compact&theme=dark)](https://github.com/ejssong/github-readme-stats)
---!>
 <!--
 **ejssong/ejssong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
